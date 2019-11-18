@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/monster-class-room/static/css/main.0d738cf4.chunk.css",
+    "main.js": "/monster-class-room/static/js/main.130fe92e.chunk.js",
+    "main.js.map": "/monster-class-room/static/js/main.130fe92e.chunk.js.map",
+    "runtime-main.js": "/monster-class-room/static/js/runtime-main.fe049e93.js",
+    "runtime-main.js.map": "/monster-class-room/static/js/runtime-main.fe049e93.js.map",
+    "static/js/2.e008a836.chunk.js": "/monster-class-room/static/js/2.e008a836.chunk.js",
+    "static/js/2.e008a836.chunk.js.map": "/monster-class-room/static/js/2.e008a836.chunk.js.map",
+    "index.html": "/monster-class-room/index.html",
+    "precache-manifest.8d0bdd41d2160fbc00a7f3fda0cec475.js": "/monster-class-room/precache-manifest.8d0bdd41d2160fbc00a7f3fda0cec475.js",
+    "service-worker.js": "/monster-class-room/service-worker.js",
+    "static/css/main.0d738cf4.chunk.css.map": "/monster-class-room/static/css/main.0d738cf4.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fe049e93.js",
+    "static/js/2.e008a836.chunk.js",
+    "static/css/main.0d738cf4.chunk.css",
+    "static/js/main.130fe92e.chunk.js"
+  ]
+}
